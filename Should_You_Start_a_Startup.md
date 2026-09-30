@@ -2,43 +2,40 @@
 
 > Notes from the Y Combinator Startup School lecture: [Should You Start A Startup?](https://www.youtube.com/watch?v=BUE-icVYRFU)
 
----
+# Should You Start a Startup?
 
-## 1. Founder Traits & Suitability
-* **Stereotypes are not requirements:** You do not need to fit media archetypes such as the ruthless coder or charismatic product visionary. Founders succeed across diverse personalities and backgrounds.
-* **School and corporate performance are weak predictors:** High academic marks or climbing the corporate ladder do not reliably transfer to early-stage founder success.
-* **Resilience is the primary success factor:** Relentless persistence is essential to push through early, personal-feeling rejections while acquiring your first users.
-* **Outward confidence does not equal resilience:** Humble, soft-spoken founders often prove to be the most resilient under real pressure.
+Founder Traits and Suitability
 
----
+* Stereotypes like being a ruthless programmer or a charismatic product genius are not requirements to succeed; many different personality types succeed.
+* Success in school or at a corporate job does not reliably predict success as a startup founder.
+* Resilience is the single most important quality for a founder, needed to push through personal-feeling rejection when trying to get early users.
+* Outward confidence during interviews or presentations is not a proxy for resilience; quiet, softly spoken founders often prove the most resilient.
 
-## 2. Founder Motivations
-* **Initial motivations matter less than their evolution:** Starting purely out of curiosity or to make money is completely acceptable as an initial spark.
-* **Enduring motivations sustain long-term work:** Surviving the inevitable dark periods requires two foundational factors:
-  * Genuine interest in the underlying problem.
-  * Loving and trusting the people you work with.
+Founder Motivations
 
----
+* Initial motivations do not matter as much as what they evolve into over time.
+* Starting a company to become rich or out of curiosity is fine as an initial spark.
+* Enduring motivations are required to survive dark periods: being genuinely interested in the problem and loving the people you work with.
 
-## 3. Assessing Risk & Downside (The Worst-Case Scenario)
-* **The practical test:** Evaluate whether you can accept the baseline worst-case scenario—spending roughly one year with little to no salary, followed by shutting the company down.
-* **Avoid continuous anxiety:** If you cannot tolerate the worst-case outcome, fear and constant anxiety will sabotage your decision-making.
-* **Failure has asymmetric career upside:**
-  * Running a company provides cross-functional mastery across sales, marketing, operations, and product.
-  * High-growth tech companies actively seek former founders for leadership and product management roles.
+Assessing Risk (The Worst-Case Scenario)
 
----
+* Ask yourself practically: "What do I have to lose?"
+* The baseline worst-case scenario: working for about a year without salary, then shutting the startup down.
+* If you cannot live with that worst-case scenario, constant anxiety will likely self-sabotage your efforts.
+* Factor in the learning value: running a startup teaches cross-functional skills (sales, product, customer support) and clarifies career direction.
+* High-growth companies actively seek out former founders for initiative, leadership, and product management roles.
 
-## 4. Preparing to Start in the Future
-* **Do not decouple ideas and co-founders:** Good ideas start as vague hunches that mature through ongoing debate and discussion with trusted collaborators.
-* **Identify high-synergy peers:** Seek out classmates or colleagues who make you more productive and with whom you naturally enjoy exploring problems.
-* **Optimize your environment:** If your current environment lacks entrepreneurial peers, join an early-stage startup instead of a large corporation to surround yourself with risk-tolerant talent.
-* **Build side projects:** Turn casual *"it would be cool if someone built X"* thoughts into lightweight prototypes built over a single weekend.
-* **Technical baseline:** Non-technical founders should either recruit a technical co-founder or learn enough code to build version 1.0 of their own prototype.
+Preparing to Start in the Future
 
----
+* Do not treat finding an idea and finding a co-founder as separate tasks; ideas start as vague hunches and develop through debate with others.
+* Identify people you already enjoy discussing ideas with (peers from school, colleagues who make you more productive).
+* If you lack these people, change your environment: join an early-stage startup rather than a large corporation to surround yourself with less risk-averse, potential co-founders.
+* Turn "it'd be cool if someone built X" moments into small side projects built over a weekend to practice turning ideas into reality.
+* Non-technical founders should either find a technical co-founder or learn enough code to build version 1 of their idea.
 
-## 5. Signals for When to Quit & Take the Leap
-* **Qualitative customer love over scale:** It is better to build something that a few people intensely love than something many people are indifferent toward. A single passionate user using a crude MVP is more meaningful than thousands of waitlist signups.
-* **Energy delta:** Notice how your time feels—if your day job drains you, but spending evenings and weekends on your project energizes you, that is a direct signal.
-* **Co-founder alignment:** Finding someone you genuinely love building with—who also wants to start a company—is exceedingly rare. When that match occurs, take the leap.
+Deciding When to Quit and Take the Leap
+
+* Do not wait for explosive traction; rely on qualitative reception: it is better to make a product that a few people really love than one many people are indifferent toward.
+* A single passionate user of a crude prototype is more valuable than a massive waitlist for an unbuilt product.
+* Contrast your energy: if your day job feels draining, but working on side projects on nights and weekends energizes you, it is a signal to leap.
+* If you find someone you love collaborating with on side projects and you both want to be founders, that compatibility is rare and a strong reason to take the leap.

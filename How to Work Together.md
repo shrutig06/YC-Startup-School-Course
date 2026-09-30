@@ -1,4 +1,4 @@
-# Kevin Hale - How to Work Together
+# How to Work Together
 [Watch on YouTube](https://www.youtube.com/watch?v=30a5yFBd7Fo)
 
 *   **Everyone fights:** Conflict is inevitable and usually centers around the same core issues. Make a plan for dealing with it before it happens.

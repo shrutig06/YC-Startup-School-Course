@@ -1,6 +1,6 @@
 # All About Pivoting
 
-Video: https://www.youtube.com/watch?v=8pNxKX1SUGE
+[Video Link](https://www.youtube.com/watch?v=8pNxKX1SUGE)
 
 What Is a Pivot
 

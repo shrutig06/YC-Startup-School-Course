@@ -1,4 +1,4 @@
-# YC Startup School Notes 🚀
+# YC Startup School Notes
 
 Structured and easy-to-follow notes from **Y Combinator's Startup School** course.
 
